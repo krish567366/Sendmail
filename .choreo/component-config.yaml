@@ -1,0 +1,4 @@
+#.choreo/component-config.yaml
+name: my-component
+version: 1.0.0
+description: My component description
